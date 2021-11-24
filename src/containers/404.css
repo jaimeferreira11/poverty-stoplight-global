@@ -1,0 +1,17 @@
+.error__wrapper {
+  text-align: center;
+  min-height: 40vh;
+  padding: 100px 0 50px;
+  border-top: 1px solid #e6e8eb;
+}
+
+.error__wrapper h1 {
+  font-size: 5em;
+  margin-bottom: 0;
+  color: #e0504c;
+  line-height: 1;
+}
+
+.error__wrapper h2 {
+  margin-top: 0;
+}

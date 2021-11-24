@@ -1,0 +1,3 @@
+.customDropdownParent:hover .customDropdownChild {
+  display: flex;
+}

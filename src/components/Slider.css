@@ -1,0 +1,52 @@
+.slideshow-container {
+  position: relative;
+  /* height: 180px; */
+  margin: auto;
+  margin-top: 60px;
+}
+
+/* The dots/bullets/indicators */
+.slider--nav {
+  display: block;
+  padding-left: 20%;
+  margin-top: 2em;
+}
+
+.dot {
+  cursor: pointer;
+  height: 8px;
+  width: 8px;
+  margin: 0 2px;
+  background-color: #dcdfe4;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+  margin-left: 20px;
+}
+
+.dot--active {
+  background-color: #69b661;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.testimonials {
+  margin: 120px 0 120px 0;
+}
+
+.testimonial {
+  margin-bottom: 30px;
+}

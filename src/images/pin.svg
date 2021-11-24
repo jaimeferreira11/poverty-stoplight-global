@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="68px" viewBox="0 0 54 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="z" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-227.000000, -62.000000)">
+        <path d="M254,130 C268,115 281,103.911688 281,89 C281,74.0883118 268.911688,62 254,62 C239.088312,62 227,74.0883118 227,89 C227,103.911688 240,115 254,130 Z" id="pin" fill="#409737"></path>
+    </g>
+</svg>

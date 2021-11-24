@@ -1,0 +1,28 @@
+.lightbox__overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #000;
+  opacity: 0.75;
+  cursor: pointer;
+  z-index: 100;
+}
+
+.content__image {
+  display: inline-block;
+  width: 280px;
+  cursor: pointer;
+  padding-right: 10px;
+}
+
+.content__image img {
+  max-width: 100%;
+  max-height: 700px;
+}
+
+.lightbox__button {
+  margin: auto;
+  margin-top: 15px;
+}

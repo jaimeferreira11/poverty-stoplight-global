@@ -1,0 +1,21 @@
+.partners__intro {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.partner {
+  padding: 60px 0;
+  overflow: auto;
+}
+
+.partner > div {
+  padding: 0 20px;
+}
+.partner > a {
+  display: inline-block;
+}
+
+.partner__logo {
+  width: 100%;
+}

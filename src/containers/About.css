@@ -1,0 +1,49 @@
+.about__intro {
+  text-align: center;
+  margin-top: -60px;
+}
+
+.about__intro .paragraph--sans {
+  margin-bottom: 80px;
+}
+.team__intro {
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  padding-top: 80px;
+}
+
+.staff__container {
+  margin-top: 30px;
+  padding-bottom: 80px;
+}
+
+.part-of-fp {
+  background-color: #1e7d3e;
+  color: #ffffff;
+  padding: 100px 0;
+}
+
+.part-of-fp__button {
+  margin-top: 30px;
+}
+
+.part-of-fp__logo {
+  height: 130px;
+  margin-left: -15px;
+}
+
+.paragraph--sans a {
+  color: white;
+}
+
+@media screen and (max-width: 720px) {
+  .about__intro {
+    margin-top: 60px;
+    margin-bottom: 0;
+  }
+
+  .team__intro {
+    width: 80%;
+  }
+}
